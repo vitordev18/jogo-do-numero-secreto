@@ -22,5 +22,3 @@ Jogo do Número Secreto é projeto desenvolvido durante os cursos de Lógica de 
 ## 💻 Projeto
 
 Foi desenvolvido durante os cursos de Lógica de Programação da Alura o Jogo do Número Secreto, utilizando como base as linguagens HTML, CSS e JavaScript.
-
-- [Visite o projeto online](https://github.com/vitordev18/imersao-front-ent)
