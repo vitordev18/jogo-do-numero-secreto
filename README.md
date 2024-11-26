@@ -10,7 +10,7 @@ Jogo do Número Secreto é projeto desenvolvido durante os cursos de Lógica de 
 </p>
 <br>
 
-## 👨‍💻 Tecnologias Utilizadas
+## 👨‍💻 Tecnologias 
 
 - HTML 
 - CSS
